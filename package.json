@@ -1,4 +1,5 @@
 {
+  "start": "node server.js",
   "name": "shortly-express",
   "version": "0.0.1",
   "description": "shortly using express",
@@ -36,5 +37,5 @@
   },
   "engines": {
     "node": "5.10.0"
-  }
+  },
 }
