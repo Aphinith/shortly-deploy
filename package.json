@@ -1,5 +1,5 @@
 {
-  "start": "node server.js",
+  // "start": "node server.js",
   "name": "shortly-express",
   "version": "0.0.1",
   "description": "shortly using express",
